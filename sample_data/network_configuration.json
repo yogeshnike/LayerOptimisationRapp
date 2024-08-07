@@ -1,0 +1,61 @@
+{
+    "data" :[
+        {
+            "band": "B28",
+            "priority":1,
+            "max_carrier_load": 60,
+            "max_traffic_threshold": 80,
+            "users":500
+        },
+        {
+            "band": "B6",
+            "priority":8,
+            "max_carrier_load": 0,
+            "max_traffic_threshold": 80,
+            "users":10
+        },
+        {
+            "band": "B8",
+            "priority":9,
+            "max_carrier_load": 50,
+            "max_traffic_threshold": 0,
+            "users":50
+        },
+        {
+            "band": "B3",
+            "priority":4,
+            "max_carrier_load": 20,
+            "max_traffic_threshold": 80,
+            "users":200
+        },
+        {
+            "band": "B1",
+            "priority":5,
+            "max_carrier_load": 10,
+            "max_traffic_threshold": 70,
+            "users":300
+        },
+        {
+            "band": "B41",
+            "priority":2,
+            "max_carrier_load": 80,
+            "max_traffic_threshold": 0,
+            "users":10
+        },
+        {
+            "band": "N78",
+            "priority":7,
+            "max_carrier_load": 2,
+            "max_traffic_threshold": 30,
+            "users":50
+        },
+        {
+            "band": "N258",
+            "priority":6,
+            "max_carrier_load": 2,
+            "max_traffic_threshold": 30,
+            "users":120
+        }
+    ]
+
+}
